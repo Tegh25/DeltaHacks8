@@ -1,4 +1,4 @@
 # DeltaHacks8
-The repo contains the back-end code for our project submitted to the DeltaHacks 8 Hackathon.
+The repo contains the back-end code for our project submitted to the DeltaHacks 8 Hackathon, our Devpost submission can be found <a href="https://devpost.com/software/cook-with-me" target="_blank">here</a>.
 
-README WIP
+WIP
