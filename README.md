@@ -5,6 +5,8 @@ This project was entered in for the health and the sustainability categories of 
 
 ## How it Works
 
-The python script uses the Spoonacular API to search up recipes based on the ingredients inputted by the user. The API is called twice, once inputting the user inputted ingredients to search for recipes and again inputting the recipes that were found in the first search to return a link to the recipe and information about any additional ingredients needed.
+This python program uses the Spoonacular API to search up recipes based on the ingredients inputted by the user. The API is called twice, once inputting the user inputted ingredients to search for recipes and again inputting the recipes that were found in the first search to return a link to the recipe and information about any additional ingredients needed.
+
+The Spoonacular API returns http requests in json, the program uses the json package in python to process the APIs outputs.
 
 WIP
